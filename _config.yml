@@ -1,0 +1,17 @@
+# Site settings
+title       : Skate or Bike
+description : half wheeling
+url         : https://skateorbike.com/
+
+# Build settings
+excerpt_separator : <!--more-->
+markdown          : kramdown
+highlighter       : rouge
+kramdown          :
+  input           : GFM
+permalink         : /:title/
+exclude           : [CNAME]
+
+sass:
+style       : expanded
+deploy_style: compressed
