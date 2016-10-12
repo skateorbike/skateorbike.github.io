@@ -48,30 +48,16 @@ $socials: (
 
 // Coloring
 @each $social, $color in $socials {
-  @if $social == 'generic' {
-    .generic {
+  .#{$social} {
+    svg {
+      fill: $color;
+    }
+    &:focus,
+    &:hover {
       svg {
-        fill: $color;
-      }
-      &:focus,
-      &:hover {
-        svg {
-          fill: darken($color,$darken);
-        }
+        fill: darken($color,$darken);
+        transform: scale(1.15);
       }
     }
   }
-  @else {
-    .#{$social} {
-        svg {
-          fill: $color;
-        }
-        &:focus,
-        &:hover {
-          svg {
-            fill: darken($color,$darken);
-          }
-        }
-      }
-    }
-  }
+}
