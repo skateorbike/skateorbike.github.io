@@ -2,15 +2,19 @@
 title       : Skate or Bike
 description : Sometimes we ride 4, sometimes we ride 2.
 url         : https://skateorbike.com/
+twitter_username : skateorbike
+image : images/favicons/android-chrome-512x512.png
 
 # Build settings
-excerpt_separator : <!--more-->
-markdown          : kramdown
-highlighter       : rouge
-kramdown          :
-  input           : GFM
-permalink         : /:title/
-exclude           : [CNAME]
+excerpt_separator   : <!--more-->
+markdown            : kramdown
+highlighter         : rouge
+kramdown            :
+  input             : GFM
+  auto_ids          : true
+  auto_id_stripping : true
+permalink           : /:title/
+exclude             : [CNAME]
 
 sass:
 style       : expanded

@@ -3,53 +3,294 @@
 ---
 @charset "utf-8";
 
-body {
-  text-align: center;
-  margin-top: 5vh;
-  font: 4vw/6vw -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+// ---------------------------------  LAYOUT  ----------------------------------
+
+html {
+  min-height: 100%;
 }
 
-.social svg {
-  transition: all .15s ease;
+body {
+  background: #5050;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1080px;
+}
+
+.index-slogan {
+  text-align: center;
+  font-style: italic;
+}
+
+p:not(.gallery),
+h1, h2, h3, h4, h5, h6,
+ol, ul,
+hr,
+.embed-container,
+#disqus_thread {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header, footer {
+  text-align: center;
 }
 
 .logo {
-  width:40vw;
+  width: 180px;
+  transition: all .08s ease;
+  &:hover {
+    transform: scale(1.15);
+  }
+}
+
+footer {
+  margin-top: 4rem;
 }
 
 
+// -------------------------------  TYPOGRAPHY  --------------------------------
 
-// ------------------------------  SOCIAL ICONS  -------------------------------
-$size: 15vw;
-$max-size: 6rem;
-$gun: #383940;
-$darken: 10%;
-$socials: (
-  github: $gun,
-  instagram: $gun,
-  rss: #D95B29,
-  tumblr: #36465D,
-  twitter: #55acee,
-);
+$typorhythm_default_base: 24 !default;
+$typorhythm_default_fontsize: 12 !default;
 
-// Sizing
-.social {
-  a {
-    background-color: transparent !important;
-    margin: 0;
-    height: $size;
-    width: $size;
-    max-width: $max-size;
-    max-height: $max-size;
-    display: inline-block;
-    &:hover {
-      cursor: pointer;
-    }
-    svg {
-      height: 100%;
-      width: 100%;
+@function fontSize($size, $unit:'rem'){
+  @return $size / $typorhythm_default_fontsize + if($unit == 'rem', rem, em);
+}
+
+@function baseContext($size, $multipler: 0) {
+  @return $multipler * ($typorhythm_default_base / $size) + em;
+}
+
+@function lineHeight($size, $base:$typorhythm_default_base) {
+  @return $base / $size;
+}
+
+@function lineHeightContext($size) {
+  $remaining: $size % $typorhythm_default_base;
+  $biggerBase: $typorhythm_default_base + ($size - $remaining);
+  @return if($remaining > 0, lineHeight($size, $biggerBase), 1);
+}
+
+@mixin typoRhythm($size, $padding:null, $margin:null, $line-height:null, $unit:null) {
+  font-size: fontSize($size, $unit);
+  padding: if($padding, baseContext($size, $padding), null);
+  margin-bottom: if($margin, baseContext($size, $margin), null);
+  line-height: if($line-height, $line-height * lineHeight($size), lineHeightContext($size));
+}
+
+@mixin typoRhythmGenerator($map, $padding:null, $margin:null, $line-height:null, $unit:null) {
+  @each $element, $size in $map {
+    #{$element} {
+      @include typoRhythm($size, $padding, $margin, $line-height, $unit);
     }
   }
+}
+
+// Use a map to define all elements at once
+$map: (h1:47, h2:34, h3:26, h4:21, h5:18, h6:16, p: 16, ul: 16);
+
+// And include it in your project
+@include typoRhythmGenerator($map, $margin:1);
+
+// Create custom typoSize($size, $padding, $margin) in your elements
+.title {
+  @include typoRhythm(72, $margin: 2);
+}
+
+.example {
+  @include typoRhythm(21, $margin: 1, $padding: 1);
+}
+
+.fyi {
+  @include typoRhythm(13);
+}
+
+$base: 1.5em;
+$colorOne: snow;
+$colorTwo: aliceblue;
+$dim: hsla(0, 0%, 100%, 0.33);
+$transparent: hsla(0, 0%, 100%, 0);
+
+body {
+  color: #411;
+  font: 100% -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 200;
+  letter-spacing: .5px;
+  background-image: linear-gradient($colorOne, $colorTwo);
+  background-repeat: no-repeat;
+  @media screen and (max-width: 400px) {
+    @include typoRhythm(9);
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+  color: #101;
+}
+
+section h4 {
+    margin-bottom: 0;
+    @include typoRhythm(16);
+  }
+
+h4 + p,
+h4 + ul {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+strong {
+  font-weight: 500;
+}
+
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+li {
+  &:before {
+    content: " 	→";
+    padding-right: $base/2;
+  }
+}
+
+
+img {
+  width: 100%;
+}
+img + em {
+  display: block;
+  text-align: center;
+  font-size: 80%;
+  font-weight: 200;
+  font-style: normal;
+}
+p.wide {
+  max-width: 1080px;
+  img {
+    width: 100%;
+  }
+}
+
+
+p.intro {
+  font-weight: 500;
+  color: #101;
+}
+
+
+hr {
+  width: 43%;
+  margin-top: 100px;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  text-align: center;
+}
+
+hr:after {
+  content: "🚴";
+  display: inline-block;
+  position: relative;
+  top: -38px;
+  font-size: 36px;
+}
+
+section {
+a:link {
+    text-decoration: none;
+    color: #411;
+    box-shadow: inset 0 -4px 0 gold;
+    transition: all .08s;
+  }
+a:visited {
+    color: #101;
+  }
+a:hover {
+    box-shadow: inset 0 -24px 0 gold;
+  }
+}
+
+.anchorjs-link {
+  box-shadow: none !important;
+}
+*:hover > .anchorjs-link {
+  margin-left: -1.25em !important;
+  margin-top: 2px;
+}
+
+
+#disqus_thread {
+  padding-top: 2rem;
+}
+
+
+// ----------------------------  RESPONSIVE EMBEDS  ----------------------------
+
+.embed {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed embed,
+.embed iframe,
+.embed object {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+// ------------------------------  SOCIAL ICONS  -------------------------------
+
+$max-size: 6rem;
+$gun: darkslategray;
+$darken: 10%;
+$socials: (
+  skateorbike: #101,
+  info: $gun,
+  instagram: $gun,
+  twitter: $gun,
+  tumblr: $gun,
+  rss: $gun,
+  github: $gun,
+);
+
+@mixin socialsizing($size) {
+  .social {
+    a {
+      background-color: transparent !important;
+      margin: 0;
+      height: $size;
+      width: $size;
+      max-width: $max-size;
+      max-height: $max-size;
+      display: inline-block;
+      &:hover {
+        cursor: pointer;
+      }
+      svg {
+        height: 100%;
+        width: 100%;
+        transition: all .08s ease;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 400px) {
+    @include socialsizing($size: 30px);
+}
+@media screen and (min-width: 401px) {
+    @include socialsizing($size: 43px);
 }
 
 // Coloring
@@ -66,4 +307,26 @@ $socials: (
       }
     }
   }
+}
+
+
+// ------------------------------  IMAGE GALLERY  ------------------------------
+
+.gallery {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  // justify-content: center;
+}
+
+.gallery img {
+  width: auto;
+  height: 320px;
+  @media screen and (max-width: 400px) {
+    width: 40vw;
+    height: auto;
+  }
+  padding: 5px;
+  flex-grow: 1;
+  object-fit: cover;
 }
