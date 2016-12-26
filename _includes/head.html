@@ -3,8 +3,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width initial-scale=1">
   <title>{% if page.title %}{{ page.title }} > {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{% if page.intro %}{{ page.intro | strip_html | strip_newlines | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="referrer" content="unsafe-url">
+  <meta name="description" content="{% if page.intro %}{{ page.intro | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="referrer" content="always">
   <link rel="stylesheet" type="text/css" href="/css/main.css" media="all">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "feed.xml" | prepend: site.url }}" />
   <link rel="author" href="humans.txt" />
@@ -42,23 +42,23 @@
 {{ site.description }}
 {% endif %}
 {% endcapture %}
-{% assign page_description = page_description | strip_newlines | truncate: 200 %}
+{% assign page_description = page_description | strip_newlines %}
 
-  <!-- Social Meta Madness -->
-  <meta name="twitter:card" content="summary">
+    <!-- Social Meta Madness -->
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="{{ site.twitter_username }}">
-  <meta name="twitter:url" property="og:url" content="{{ page_url }}">
-  <meta name="twitter:title" property="og:title" itemprop="name" content="{{ page_title }}">
-  <meta name="twitter:description" property="og:description" itemprop="description" content="{{ page_description }}">
-  <meta name="twitter:image:src" property="og:image" itemprop="image" content="{{ page_image }}">
-  <meta name="twitter:creator" content="{{ site.twitter_username }}" />
-  <!-- <meta property="article:author" content="https://www.facebook.com/{{ site.facebook_username }}"> -->
-  <!-- <meta property="article:publisher" content="https://www.facebook.com/{{ site.facebook_username }}"> -->
+  <meta name="twitter:creator" content="@huphtur">
+  <meta name="twitter:title" content="{{ page_title }}">
+  <meta name="twitter:description" content="{{ page_description }}">
+  <meta name="twitter:image" content="{{ page_image }}">
+
+  <meta property="og:title" content="{{ page_title }}" />
   <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ page_url }}" />
+  <meta property="og:image" content="{{ page_image }}" />
+  <meta property="og:description" content="{{ page_description }}" />
   <meta property="og:site_name" content="{{ site.title }}" />
-  <meta property="og:locale" content="en_US" />
-  <!-- <meta property="fb:app_id" content="{{ site.facebook_app_id }}" /> -->
-  <!-- <meta property="fb:admins" content="{{ site.facebook_admins }}" /> -->
+  <meta property="fb:page_id" content="221690254955033" />
 
   <!-- RealFaviconGenerator -->
   <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
