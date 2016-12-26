@@ -3,11 +3,11 @@ layout: default
 ---
 {% for post in site.posts %}
 
-<p class="index-box">
+<div class="index-box">
   <h2 class="post-title">{{ post.title }}</h2>
   <p><img src="/images/{{ post.url }}/{{ post.img }}" alt="{{ page.title }}"></p>
   <p class="intro">{{ post.intro }}</p>
   <p>Read Miki's Interview Jan 1, 2017</p>
-</p>
+</div>
 
 {% endfor %}
