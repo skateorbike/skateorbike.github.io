@@ -2,7 +2,7 @@
 layout: post
 title : Miki Vuckovich
 img   : watch-your-step.jpg
-intro : Early 90s at the RAI skatespot in Amsterdam, is where I first met Miki. He was shooting a photo of Pieter Janssen for a TransWorld SKATEboarding Check Out article. What struck me was his laid-back demeanour. Fast forward to 2013, Encinitas CA. We're both riding the Belgian Waffle Ride. Miki finished the 160km ride in 12 hours, long after everyone was gone. Good to see Miki still has that same laid-back approach 😉.
+intro : Early 90s at the RAI skatespot in Amsterdam, is where I first met Miki. He was shooting a photo of Pieter Janssen for a TransWorld SKATEboarding Check Out article. What struck me was his laid-back demeanour. Fast forward to 2014, Encinitas CA. We're both riding the Belgian Waffle Ride. Miki finished the 160km ride in 12 hours, long after everyone was gone. Good to see Miki still has that same laid-back approach 😉.
 ---
 #### How did you get into skating?
 1980, San Jose, CA. Started with a hand-me-down from my oldest brother. Bearings were completely seized, but pushed around on it anyway. Skateboarding was huge in the late 70s, but had died by then. But something about it appealed to me and a couple friends of mine. We definitely weren’t the cool kids at school.
@@ -29,30 +29,44 @@ In my case, [n=4](http://www.velominati.com/the-rules/#12).
 
 My first build project was an old French Jeunet touring frame that I set up with a 46t Velo Orange single crankset, 27-inch wheels from Velo Cult (when it was still in San Diego), reverse-caliper brake levers on messenger bars, and a cushy Brooks saddle. That bike has since morphed into a rando setup with a Stronglight drillium triple crankset, classic rando bars with shellacked cotton bar tape, downtube shifters, etc. Pretty much Eroica-ready! I use that one to commute to the skatepark.
 
-![la jeunet](/images/miki-vuckovich/la-jeunet.jpg)
+![jeunet](/images/miki-vuckovich/jeunet.jpg)
+![jeunet bars](/images/miki-vuckovich/jeunet-bars.jpg)
+![jeunet shifters](/images/miki-vuckovich/jeunet-shifters.jpg)
+![jeunet crank](/images/miki-vuckovich/jeunet-crank.jpg)
+![jeunet saddle](/images/miki-vuckovich/jeunet-saddle.jpg)
+{: .gallery}
 
-These days I mostly ride my [Santa Cruz Stigmata](http://www.santacruzbicycles.com/en-US/stigmata). Technically, it’s a cyclocross bike, but I’ve set it up with a Fizik Antares saddle, Zipp post, bars, and stem, SRAM Red hydraulic disc brakes and compact road groupset, and have two sets of wheels laced up with the same hubs and 11–28 cassettes — WTB rims on DT Swiss 350 hubs with Schwalbe X-One 32c tires for racing CX, and HED Belgium rims on DT Swiss 350 hubs with Hutchinson Sector 28 tires for the “road.” I use that term loosely, since a good Sat. morning ride will include a dose of hardpack trails, too.
+These days I mostly ride my [Santa Cruz Stigmata](http://www.santacruzbicycles.com/en-US/stigmata). Technically, it’s a cyclocross bike, but I’ve set it up with a Fizik Antares saddle, Zipp post, bars, and stem, SRAM Red hydraulic disc brakes, SRAM/Quarq 1x cranks (46t), SRAM Force 1 derailleur, and have two sets of wheels laced up with the same hubs and 11–28 cassettes — WTB rims on DT Swiss 350 hubs with Schwalbe X-One 32c tires for racing CX, and HED Belgium rims on DT Swiss 350 hubs with Hutchinson Sector 28 tires for the “road.” I use that term loosely, since a good Sat. morning ride will include a dose of hardpack trails, too. Both wheel sets are tubeless.
 
-![1](/images/miki-vuckovich/1.jpg)
-![2](/images/miki-vuckovich/2.jpg)
-![3](/images/miki-vuckovich/3.jpg)
-![4](/images/miki-vuckovich/4.jpg)
-![5](/images/miki-vuckovich/5.jpg)
-![6](/images/miki-vuckovich/6.jpg)
-![7](/images/miki-vuckovich/7.jpg)
-![8](/images/miki-vuckovich/8.jpg)
-![9](/images/miki-vuckovich/9.jpg)
-![10](/images/miki-vuckovich/10.jpg)
-![11](/images/miki-vuckovich/11.jpg)
+![stigmata](/images/miki-vuckovich/stigmata.jpg)
+![stigmata bars](/images/miki-vuckovich/stigmata-bars.jpg)
+![stigmata cockpit](/images/miki-vuckovich/stigmata-cockpit.jpg)
+![stigmata crank](/images/miki-vuckovich/stigmata-crank.jpg)
+![stigmata chain](/images/miki-vuckovich/stigmata-chain.jpg)
 {: .gallery}
 
 The Stigmata is great because it’s really just a “bike,” meaning that it’ll do just about anything. It’s best for CX, but I’ve also raced it in the road, in crits, time trials, and even mountain-bike races (though it was a little rough there). My Stigmata’s raced everything but track.
 
 For that I have a Masi Speciale Sprint, a steel track bike with an old Campy Record Pista crankset (49t), Campy Record Pista track hubs (14t cog) laced to Campy Omicron box rims, a nylon Cinelli Unicanitor seat, and chrome Nitto track stem and bars (wrapped in black cotton bar tape). Not the lightest or most aero track machine, but until its recent resurfacing, the San Diego Velodrome wasn’t exactly somewhere you were prone to break any records.
 
-![Masi Speciale Sprint](/images/miki-vuckovich/masi-speciale-sprint.jpg)
+![masi](/images/miki-vuckovich/masi.jpg)
+![masi bars](/images/miki-vuckovich/masi-bars.jpg)
+![masi crank](/images/miki-vuckovich/masi-crank.jpg)
+![masi fork](/images/miki-vuckovich/masi-fork.jpg)
+![masi hub](/images/miki-vuckovich/masi-hub.jpg)
+![masi saddle](/images/miki-vuckovich/masi-saddle.jpg)
+![masi top](/images/miki-vuckovich/masi-top.jpg)
+![masi wheel](/images/miki-vuckovich/masi-wheel.jpg)
+{: .gallery}
 
 Last, but not least, is my ’85 Guerciotti lugged-steel road bike, with mostly Campy C Record components. 8-speed setup with Campy aero Ypsilon wheels. Heavy as hell, but SO smooth (in part likely due to the 25c Gran Bois tires). That one mostly sits on the trainer in the garage. It gets plenty of use there, plus the occasional ride outside. Despite its heft, I’ve broken plenty of PRs on it. So there’s something to be said for the FEEL of a bike, versus just its weight.
+
+![guerciotti](/images/miki-vuckovich/guerciotti.jpg)
+![guerciotti brake](/images/miki-vuckovich/guerciotti-brake.jpg)
+![guerciotti crank](/images/miki-vuckovich/guerciotti-crank.jpg)
+![guerciotti front](/images/miki-vuckovich/guerciotti-front.jpg)
+![guerciotti saddle](/images/miki-vuckovich/guerciotti-saddle.jpg)
+{: .gallery}
 
 I’m capping my bike quiver at four. One goes out before a new one comes in. Just to keep from going apeshit with every cool bike I see, but can’t afford.
 
@@ -66,7 +80,7 @@ Oh, hell no! I’ve only been at this for about six years. There are people who�
 
 I’ve watched the bike industry for a few years. It looks like a tough business. Tight margins, products that (should) last a long time (if taken care of), and ruthless competition. It’s a lot like the skate industry, but at least with skateboarding, the products (boards, wheels, shoes) are much more disposable.
 
-I think bike companies are just starting to really discover culture marketing. For a long time they pushed the jocky performance aspect of their products, with dopey poster boys like Cipollini doing anything but attracting potential fans like me.
+I think bike companies are just starting to really discover culture marketing. For a long time they pushed the jocky performance aspect of their products, with dopey poster boys like [Cipollini](https://en.wikipedia.org/wiki/Mario_Cipollini) doing anything but attracting potential fans like me.
 
 ![Mario Cipollini](/images/miki-vuckovich/cipo.jpg)
 _Mooie Mario 📷 unknown_
@@ -112,18 +126,26 @@ I don’t have any KOMs — San Diego has too much talent for me to threaten
 Yes, I’ve contacted them about it. So many people are skating as transportation. In an age when pedometers allow people to claim exercise for doing what they do anyway (walking around), it would make sense to be able to track skating just as people track their bike rides or commutes.
 
 ![clairemont skatepark](/images/miki-vuckovich/clairemont-skatepark.jpg)
+_Clairemont Skatepark_
 
 If they can map skateparks, too, with all the features and bowl depths, they could estimate effort, watts, and calories burned, too. With 5.6-million skateboarders in the US alone, that could be a huge new market for them.
 
 #### Which skater would have the most downhill KOMs?
-Cardiel.
+[Cardiel](https://www.instagram.com/_breakfree_/).
+
+<div class="embed-container">
+  <div class="embed">
+    <iframe src="https://mpora.com/videos/AAdqlml82suv/embed" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  </div>
+</div>
 
 #### Favorite skate spot?
 All time would be the Bricks in San Jose. It’s a set of brick banks around a downtown parking garage. About four-feet tall, tranny at the bottom, sharp edge at the top.
 
-![derby skatepark](/images/miki-vuckovich/derby-skatepark.jpg)
-
 Also love Derby in Santa Cruz, but that’s a skatepark, not a spot. Feels like a skate spot when I ride there, though. Even after 35 years. I’ve lived in San Diego most of my life, now, but for whatever reason, those NorCal spots stand out.
+
+![derby skatepark](/images/miki-vuckovich/derby-skatepark.jpg)
+_Derby Skatepark_
 
 #### Favorite bike route?
 I roll out from my house in Clairemont (San Diego) and head north through Del Mar, Fairbanks Ranch, the rolling hills of Rancho Santa Fe, by Lake Hodges, Elfin Forest, maybe hit Double Peak if I’m feeling bold, then down PCH and up the Torrey Pines climb on the way home. Lots of trails and dirt sections optional along that route, too. About a 70-mile day.
@@ -133,9 +155,10 @@ Pfffft! What? I rode [CASL](http://caslusf.com/) in 1983. Got 2nd place three ti
 
 Gullwing team manager Jim Goodrich gave me a pair of trucks after the Upland contest. I also got a photo from that contest in TWS issue 2. But getting trucks from Jim was fantastic. I’ve gotten lots of free equipment over the years, but that was the first time I got something I felt I earned. Even though I know he was just being cool.
 
-Getting a board from Lance Mountain a couple weeks ago was a pretty close second. Didn’t expect that, at 48, and from a guy I’ve known and admired for decades. But his pulling a board out of his car and handing it time caught me off guard — I choked up. It’s been a blast riding that thing. And it happens to be orange, like my Stigmata!
+Getting a board from [Lance Mountain](https://www.instagram.com/lancemountain/) a couple weeks ago was a pretty close second. Didn’t expect that, at 48, and from a guy I’ve known and admired for decades. But his pulling a board out of his car and handing it time caught me off guard — I choked up. It’s been a blast riding that thing. And it happens to be orange, like my Stigmata!
 
 ![lance board](/images/miki-vuckovich/lance-board.jpg)
+_Gift from Lance_
 
 Bike racing has made me wonder if some sort of old-man am series might be fun. The Masters pro events are amazing. But that’s retired pros. The rest of us might enjoy “competing” too. And I mean that in the loosest sense of the word.
 
@@ -152,16 +175,19 @@ Before the race I thought I was in decent shape, having put some road miles in. 
 
 No more cruising the coast route on a leisurely Saturday morning. No more baggy wind-grabbing MTB shorts over my Lycra. Time to step up. Soon after that, my next bike was a CX bike.
 
-Lee Crane was really interested in my experience when he heard I’d raced CX. He invited me to write [a piece about it](http://www.bikeistan.com/2012/12/cross-eyed-a-newbie-jumps-in-at-san-diego/) for Bikeistan. 
+![Giro Shoes](/images/miki-vuckovich/giro-shoes.jpg)
+_Much better than sneakers_
 
-![miki bag](/images/miki-vuckovich/miki-bag.jpg)
-_Rain or shine, the cross always goes on!_
+Lee Crane was really interested in my experience when he heard I’d raced CX. He invited me to write [a piece about it](http://www.bikeistan.com/2012/12/cross-eyed-a-newbie-jumps-in-at-san-diego/) for Bikeistan. 
 
 In 2014 I rode the State CX Championships in Bakersfield. You don’t have to qualify for that, you can just enter. I was still Cat 5 then (beginner). It was a small field of 15 riders. I was in the front group of five the first few laps, them dropped my chain. Everyone passed me. Clawed my way back to finish 10th.
 
 Soon after that I got my Cat 4 license in CX, road, and track. Last couple seasons I’ve been finishing mid pack in CX. Road racing is another animal altogether. If I can finish in the group there, I’m happy.
 
 Some guys are born with a Ferrari engine under the hood. I’m, quite literally, a Yugo. So, I have modest ambitions as a racing cyclist. Very modest.
+
+![miki bag](/images/miki-vuckovich/miki-bag.jpg)
+_Rain or shine, the cross always goes on!_
 
 A few years ago I started training with a group at the San Diego Velodrome once a week. Talk about a rush! There are only about 30 velodromes in the U.S. So, like skateparks once upon a time, they’re a rare commodity and anyone lucky enough to live near one should give it a try.
 
@@ -182,7 +208,7 @@ Skateboarding is a skill-based sport. Cycling is an endurance sport. Doping won�
 
 The only issue skaters will face is the potential that a recreational drug they happen to use is on the banned list.
 
-Only a handful of skaters will be in the Olympics, so how about we make that a handful who happen to not use anything on the WADA banned list? Seems simple — if you want to use drugs, don’t pursue an Olympic team call up.
+Only a handful of skaters will be in the Olympics, so how about we make that a handful who happen to not use anything on the [WADA banned list](http://list.wada-ama.org/)? Seems simple — if you want to use drugs, don’t pursue an Olympic team call up.
 
 #### You think skaters will ever accept out of competition doping tests?
 If they want to compete in the Olympics they will. There are plenty of competitions and career trajectories for pro skaters that don’t involve the Olympics. It’s going to entail a number of conditions unique to it. Either you’re down for it or you’re not.
@@ -219,7 +245,7 @@ But Tony was an early favorite. And the shit he’s been doing the last couple y
 I have too many other favorites over the years to even list. Each brought something innovative or stylistically critical to skateboarding. It is what it is because the pros over the years have inspired us rank-and-file skaters to create our own reality in the culture and maybe contribute something back, as they did.
 
 #### And your favorite cyclist?
-I would like to say Mr. Paris-Roubaix, Roger DeVlaeminck. For the sideburns, if nothing else. And partly because he was a top road racer who was also a cyclocross champion.
+I would like to say Mr. Paris-Roubaix, [Roger DeVlaeminck](https://nl.wikipedia.org/wiki/Roger_De_Vlaeminck). For the sideburns, if nothing else. And partly because he was a top road racer who was also a cyclocross champion.
 
 But I can’t, because by far the greatest cyclist of all time is Gino Bartali. Yes, he won a shitload of races, including the Giro and a couple Tours. And his feat of winning the Tour de France ten years apart (1938 and 1948) has never been duplicated. What classic rider still has a record standing? Maybe Merckx for number of TdF stage wins.
 
@@ -247,9 +273,10 @@ I guess I look for the meaning beyond the bike. Anyone can buy a fast racing tea
 [JGB](http://jgrantbrittainphotos.com/).
 
 ![jgb](/images/miki-vuckovich/jgb.jpg)
+_Grant Brittain welcomes guests to his Archive show_
 
 #### Favorite bike photographer.
-Andy Bokanev or Jakob Kristian Sørensen.
+[Andy Bokanev](https://www.instagram.com/bokanev/) or [Jakob Kristian Sørensen](https://www.instagram.com/velopresse/).
 
 #### You think cycling beneficial for skating?
 In 2011 I was in Austin for a nonprofit conference. Ironically, it was hosted by LiveStrong. I spent a couple hours at House Skatepark, the local public park, and was skating back to my hotel when I passed by Mellow Johnny’s.
@@ -267,7 +294,13 @@ So, yes, cycling is beneficial to skating. To my skating, at least.
 #### What about skating, you think that's beneficial for cycling?
 Skateboarding prepares you for so much shit in life, it’s insane that it’s not mandatory for all teenagers to skate. Well, it prepared me, and probably my generation experienced a lot that current skaters don’t. But the adversity of having to push through all the self doubt and land a fucking trick and learn to commit and stay on can apply to any challenge you face.
 
-Gavin O’Brien (Faction singer and former Santa Cruz team manager) has a theory he calls skater’s advantage: Take two people, both with equal talent and credentials, and throw something new at them — nine out of ten times, if one of them is a skater, he or she will adapt way more readily than the non-skater. I’ve seen this manifest many times over.
+Gavin O’Brien ([Faction](https://en.wikipedia.org/wiki/The_Faction_%28band%29) singer and former Santa Cruz team manager) has a theory he calls skater’s advantage: Take two people, both with equal talent and credentials, and throw something new at them — nine out of ten times, if one of them is a skater, he or she will adapt way more readily than the non-skater. I’ve seen this manifest many times over.
+
+<div class="embed-container">
+  <div class="embed">
+    <iframe src="http://www.youtube.com/embed/Fj3xslabO2s" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
 
 So, the first time I got on a fixed-gear bike and rolled up the banks at the velodrome, or the first crit race I entered and found myself in a bunch of floundering fellow Cat 5ers bouncing around a tight course, I just read the situation, picked the best wheel, and got on with it.
 
@@ -301,7 +334,7 @@ Black shorts, only.
 
 No, skateboarding has no rules. You make you own. Any kind of self-appointed “Skateinati” would be laughed out of the room. The mags used to kind of serve that role, but at least at TWS, we always looked for cues from the current top pros to suggest what’s new or cool. It was never us insisting who or what was acceptable. I hope that’s how it came across to readers, anyway.
 
-I don’t think there’s anything in skateboarding today like the concentration of influence that the mags once had. Well, Jake Phelps, maybe! ; ) But with all the half-baked Web sites today, there’s no one authority in skateboarding to even threaten to become anything akin to the Velominati.
+I don’t think there’s anything in skateboarding today like the concentration of influence that the mags once had. Well, [Jake Phelps](https://story.californiasunday.com/jake-phelps-thrasher), maybe! ; ) But with all the half-baked Web sites today, there’s no one authority in skateboarding to even threaten to become anything akin to the Velominati.
 
 Skateboarding is much more like Fight Club than the Velominati. And you know what the first rule of Fight Club is…
 
