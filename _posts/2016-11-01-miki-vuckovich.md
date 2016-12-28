@@ -222,7 +222,7 @@ Probably the Munster Monster Mastership in Germany in the late 80s/early 90s. Sk
 
 <div class="embed-container">
   <div class="embed">
-    <iframe src="http://www.youtube.com/embed/8DX2Hdj1Lq8" frameborder="0" allowfullscreen></iframe>
+    <iframe src="//www.youtube.com/embed/8DX2Hdj1Lq8" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -231,7 +231,7 @@ For sure, Paris-Roubaix. The real test of a rider is going balls-out in a one-da
 
 <div class="embed-container">
   <div class="embed">
-    <iframe src="http://www.youtube.com/embed/3ez6kiE9I_Y" frameborder="0" allowfullscreen></iframe>
+    <iframe src="//www.youtube.com/embed/3ez6kiE9I_Y" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -253,7 +253,7 @@ But Bartali is the greatest cyclist, not for what he accomplished ON the bike, b
 
 <div class="embed-container">
   <div class="embed">
-    <iframe src="http://www.youtube.com/embed/wCpfD5dWQrI" frameborder="0" allowfullscreen></iframe>
+    <iframe src="//www.youtube.com/embed/wCpfD5dWQrI" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -298,7 +298,7 @@ Gavin O’Brien ([Faction](https://en.wikipedia.org/wiki/The_Faction_%28band%29)
 
 <div class="embed-container">
   <div class="embed">
-    <iframe src="http://www.youtube.com/embed/Fj3xslabO2s" frameborder="0" allowfullscreen></iframe>
+    <iframe src="//www.youtube.com/embed/Fj3xslabO2s" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
