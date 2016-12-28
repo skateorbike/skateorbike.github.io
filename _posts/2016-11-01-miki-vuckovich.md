@@ -135,7 +135,7 @@ If they can map skateparks, too, with all the features and bowl depths, they cou
 
 <div class="embed-container">
   <div class="embed">
-    <iframe src="https://mpora.com/videos/AAdqlml82suv/embed" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src="//mpora.com/videos/AAdqlml82suv/embed" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   </div>
 </div>
 
