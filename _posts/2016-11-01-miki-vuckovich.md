@@ -36,7 +36,7 @@ My first build project was an old French Jeunet touring frame that I set up with
 ![jeunet saddle](/images/miki-vuckovich/jeunet-saddle.jpg)
 {: .gallery}
 
-These days I mostly ride my [Santa Cruz Stigmata](http://www.santacruzbicycles.com/en-US/stigmata). Technically, it’s a cyclocross bike, but I’ve set it up with a Fizik Antares saddle, Zipp post, bars, and stem, SRAM Red hydraulic disc brakes, SRAM/Quarq 1x cranks (46t), SRAM Force 1 derailleur, and have two sets of wheels laced up with the same hubs and 11–28 cassettes — WTB rims on DT Swiss 350 hubs with Schwalbe X-One 32c tires for racing CX, and HED Belgium rims on DT Swiss 350 hubs with Hutchinson Sector 28 tires for the “road.” I use that term loosely, since a good Sat. morning ride will include a dose of hardpack trails, too. Both wheel sets are tubeless.
+These days I mostly ride my [Santa Cruz Stigmata](http://www.santacruzbicycles.com/en-US/stigmata). Technically, it’s a cyclocross bike, but I’ve set it up with a Fizik Antares saddle, Zipp post, bars, and stem, SRAM Red hydraulic disc brakes, SRAM/Quarq 1x cranks (46t), SRAM Force 1 derailleur, and have two sets of wheels laced up with the same hubs and 10-42 cassettes — WTB rims on DT Swiss 350 hubs with Schwalbe X-One 32c tires for racing CX, and HED Belgium rims on DT Swiss 350 hubs with Hutchinson Sector 28 tires for the “road.” I use that term loosely, since a good Sat. morning ride will include a dose of hardpack trails, too. Both wheel sets are tubeless.
 
 ![stigmata](/images/miki-vuckovich/stigmata.jpg)
 ![stigmata bars](/images/miki-vuckovich/stigmata-bars.jpg)
@@ -155,7 +155,7 @@ Pfffft! What? I rode [CASL](http://caslusf.com/) in 1983. Got 2nd place three ti
 
 Gullwing team manager Jim Goodrich gave me a pair of trucks after the Upland contest. I also got a photo from that contest in TWS issue 2. But getting trucks from Jim was fantastic. I’ve gotten lots of free equipment over the years, but that was the first time I got something I felt I earned. Even though I know he was just being cool.
 
-Getting a board from [Lance Mountain](https://www.instagram.com/lancemountain/) a couple weeks ago was a pretty close second. Didn’t expect that, at 48, and from a guy I’ve known and admired for decades. But his pulling a board out of his car and handing it time caught me off guard — I choked up. It’s been a blast riding that thing. And it happens to be orange, like my Stigmata!
+Getting a board from [Lance Mountain](https://www.instagram.com/lancemountain/) a couple weeks ago was a pretty close second. Didn’t expect that, at 48, and from a guy I’ve known and admired for decades. But his pulling a board out of his car and handing it to me caught me off guard — I choked up. It’s been a blast riding that thing. And it happens to be orange, like my Stigmata!
 
 ![lance board](/images/miki-vuckovich/lance-board.jpg)
 _Gift from Lance_
@@ -173,10 +173,10 @@ My first CX race was in San Diego later that year. Part of the course went into 
 
 Before the race I thought I was in decent shape, having put some road miles in. But that’s when the concept of “empty miles” really hit home, because after the race I was absolutely decimated. But I was hooked. And motivated. And my toes had completely blew through the front of my sneakers.
 
-No more cruising the coast route on a leisurely Saturday morning. No more baggy wind-grabbing MTB shorts over my Lycra. Time to step up. Soon after that, my next bike was a CX bike.
+![Giro Shoes](/images/miki-vuckovich/first-crossrace.jpg)
+_The result of Miki's first cross race_
 
-![Giro Shoes](/images/miki-vuckovich/giro-shoes.jpg)
-_Much better than sneakers_
+No more cruising the coast route on a leisurely Saturday morning. No more baggy wind-grabbing MTB shorts over my Lycra. Time to step up. Soon after that, my next bike was a CX bike.
 
 Lee Crane was really interested in my experience when he heard I’d raced CX. He invited me to write [a piece about it](http://www.bikeistan.com/2012/12/cross-eyed-a-newbie-jumps-in-at-san-diego/) for Bikeistan. 
 
