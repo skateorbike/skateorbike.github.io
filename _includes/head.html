@@ -14,7 +14,7 @@
 
 {% capture page_title %}
 {% if page.title %}
-{{ page.title | append: " > " | append: site.title }}
+{{ page.title | append: " - " | append: site.title }}
 {% else %}
 {{ site.title }}
 {% endif %}
