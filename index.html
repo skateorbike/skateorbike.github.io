@@ -2,12 +2,10 @@
 layout: default
 ---
 {% for post in site.posts %}
-
-<div class="index-box">
-  <h2 class="post-title">{{ post.title }}</h2>
-  <p><img src="/images/{{ post.url }}/{{ post.img }}" alt="{{ page.title }}"></p>
+<p class="index-box">
+  <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p><a href="{{ post.url }}"><img src="/images/{{ post.url }}/{{ post.img }}" alt="{{ page.title }}"></a></p>
   <p class="intro">{{ post.intro }}</p>
-  <p>Read Miki's Interview Jan 1, 2017</p>
-</div>
-
+  <p><a href="{{ post.url }}#read">Read Miki's Interview →</a></p>
+</p>
 {% endfor %}
