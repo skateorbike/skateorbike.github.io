@@ -5,7 +5,7 @@ title : About
 ## About
 More and more skaters are picking up a bike to start cycling. This site will feature some of those skaters and their cycling escapades.
 
-The name is a play on [Skate or Die](https://en.wikipedia.org/wiki/Skate_or_Die!), one of the earlier skateboard video games and a term widly used in today's society.
+The name is a play on [Skate or Die](https://en.wikipedia.org/wiki/Skate_or_Die!), one of the earlier skateboard video games and a term widely used in today's society.
 
 Coincidentally, in February 2015, [Cadence Collection](http://www.cadencecollection.com/) took a bunch of pro skaters on a bike trip to Nicaragua. [Rob Gonzales](https://www.instagram.com/chillrobgee/), one of the guys on the trip, started using [#skateorbike](https://www.instagram.com/explore/tags/skateorbike/) on instagram to document their adventure.
 
