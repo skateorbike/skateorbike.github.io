@@ -31,7 +31,7 @@
 {% assign page_image = page_image | strip_newlines | join " " %}
 
 {% capture page_url %}
-{{ page.url | replace:'/','' | prepend: full_url }}
+{{ page.url | replace:'/','' | prepend: full_url | append: '/' }}
 {% endcapture %}
 {% assign page_url = page_url | strip_newlines | join " " %}
 
